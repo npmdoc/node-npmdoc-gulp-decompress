@@ -1,4 +1,7 @@
-# api documentation for  [gulp-decompress (v2.0.1)](https://github.com/kevva/gulp-decompress#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-decompress.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-decompress) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-decompress.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-decompress)
+# npmdoc-gulp-decompress
+
+#### api documentation for  [gulp-decompress (v2.0.1)](https://github.com/kevva/gulp-decompress#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-decompress.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-decompress) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-decompress.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-decompress)
+
 #### Extract TAR, TAR.BZ2, TAR.GZ and ZIP archives
 
 [![NPM](https://nodei.co/npm/gulp-decompress.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-decompress)
@@ -85,7 +88,8 @@
     "version": "2.0.1",
     "xo": {
         "esnext": true
-    }
+    },
+    "bin": {}
 }
 ```
 
